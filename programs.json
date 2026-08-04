@@ -4822,5 +4822,29 @@
     "strengthsSites": null,
     "recentPlacements": null,
     "applicationNotes": null
+  },
+  {
+    "name": "Main Line Health / Lankenau",
+    "city": "Wynnewood",
+    "state": "PA",
+    "stateName": "Pennsylvania",
+    "erasRegion": "Middle Atlantic",
+    "coastTier": "East",
+    "tier": "C",
+    "spots": "~6",
+    "imgRead": "Reach",
+    "visa": "Unknown",
+    "payPGY4": "—",
+    "website": "https://www.mainlinehealth.org/medical-education/fellowship-programs/cardiovascular-diseases",
+    "homeProgram": false,
+    "nigerianContact": null,
+    "namedContact": null,
+    "whyConsider": "Philadelphia Main Line, 30+ year program. Faculty hold Jefferson Medical College appointments, a real talking point from Jefferson Einstein. Excellent advanced-fellowship placements. Added Aug 2026.",
+    "fellows": "~6/yr (published graduate lists show 6 in 2026 and 6 in 2025)",
+    "imgEvidence": "REACH. Published 2024-2026 graduate rosters are US MD/DO with a strong DO presence; no confirmed IMG medical school. Verify current fellow bios before spending a signal.",
+    "programDirector": null,
+    "strengthsSites": "Lankenau Heart Institute; in-house interventional cardiology and clinical cardiac electrophysiology fellowships; research affiliation with Lankenau Institute for Medical Research; active clinical trials; Jefferson Medical College faculty appointments.",
+    "recentPlacements": "Hopkins EP, Penn Medicine advanced HF/transplant, Mount Sinai interventional, Temple HF, Northwell EP, Lankenau interventional, Lankenau Heart Group.",
+    "applicationNotes": "ERAS plus NRMP medicine subspecialty match. Strong training and placements, but IMG precedent is not established, so treat as a reach signal rather than a safety."
   }
 ]
